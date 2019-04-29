@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(../img/fondoweb.jpeg);
+	background-size: cover;
+
+}
+#wrapper{
+	border-radius: 5px;
+	background-color: #ccc;
+	height: 600px;
+	margin: 0 auto;
+	width: 700px;
+
+}
+
+#primero{
+	border-radius: 5px;
+	background-color: #ddd;
+	box-shadow: 0 0 10px rgba(0,0,0,0,3);
+	float: left;
+	padding: 40px;
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 200px;
+
+}
+#segundo{
+	border-radius: 5px;
+	background-color: #ddd;
+	box-shadow: 0 0 10px rgba(0,0,0,0,3);
+	float: left;
+	padding: 40px;
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 200px;
+
+}
+
+img{
+	text-align: left; 
+	float: left;
+	width: 150px;
+	height: 150px;
+	padding-left: 278px;
+
+
+}
